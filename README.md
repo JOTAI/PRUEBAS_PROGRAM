@@ -3,4 +3,4 @@ PRUEBAS_PROGRAM
 
 Pruebas de programas con PHP
 
-Se ha creado la clase conexion.
+Se ha creado la clase conexion.class.php
