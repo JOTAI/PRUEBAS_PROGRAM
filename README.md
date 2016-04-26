@@ -1,4 +1,5 @@
 PRUEBAS_PROGRAM
 ===============
 
-Practica y pruebas de diferentes codigos
+Pruebas de programas con PHP
+
